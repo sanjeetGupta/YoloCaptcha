@@ -13,7 +13,7 @@ Accuracy for getting the captcha completely right!
 
 what does yolo captcha model do ?
 
-<img src="https://github.com/sanjeetGupta/YoloCaptcha/blob/master/images/example1_map.png" width="600" height="100" />
+<img src="https://github.com/sanjeetGupta/YoloCaptcha/blob/master/images/example1_map.png" width="600" height="150" />
 
 
 Some more Results (Inference done in example.ipynb) :
