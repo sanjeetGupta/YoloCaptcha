@@ -2,7 +2,7 @@
 ### This is a YOLOv2 based Captcha security breaking model.
 
 
-### This work is also an example of using synthetically generated data to train ML models.
+#### This work is also an example of using synthetically generated data to train ML models.
 #### Also, this is an indication to why Captcha Security is no longer useful and should be replaced with other technologies like reCAPTCHA
 
 # Overview and Result
